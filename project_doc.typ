@@ -57,7 +57,9 @@
     From *SERVER* to *MICRO*
 
   == Visualization
-    From *MICRO* to *DISPLAY* 
+    From *MICRO* to *DISPLAY*\ 
+      or \
+    From *SERVER* to *webpage* (julia dashboard)
 
 = Programming Languages
   == Microcontroller
